@@ -1,4 +1,4 @@
-# 311 Data Pipeline with Apache NiFi, Elasticsearch, and Kibana
+# SCF Data Pipeline with Apache NiFi, Elasticsearch, and Kibana
 
 This repository contains a comprehensive data pipeline designed to collect, process, and visualize 311 service request data using Apache NiFi, Elasticsearch, and Kibana. The pipeline connects to the SeeClickFix API to download both current and archived service request issues for a specified county, loads the data into Elasticsearch for storage and indexing, and then it can be visualized through Kibana dashboards.
 
